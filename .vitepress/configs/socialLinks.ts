@@ -9,13 +9,8 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
     ariaLabel: 'Github'
   },
   {
-    icon: 'gmail',
-    link: 'mailto:fanxiaobin422@gmail.com',
-    ariaLabel: 'Gmail'
-  },
-  {
-    icon: 'telegram',
-    link: 'https://t.me/s_theo',
-    ariaLabel: 'Telegram'
+    icon: 'github',
+    link: 'https://github.com/let-fate/book',
+    ariaLabel: 'Github'
   }
 ]

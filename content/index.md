@@ -1,9 +1,9 @@
 ---
 layout: home
-title: 玄学宝典
+title: LetFate·玄学宝典
 titleTemplate: 中华传统五术书籍传世经典著作
 hero:
-  name: 玄学宝典
+  name: LetFate·玄学宝典
   text: 山医命相卜
   tagline: 中华传统五术书籍传世经典著作
   image:
@@ -14,14 +14,14 @@ hero:
     height: 320
 
   Notice:
-    title: '<span class="promo-title">青云梯 优惠码大放送!</span>'
+    title: '<span class="promo-title">LetFate·灵钥通枢</span>'
     desc: |
-      · 85折<span class="promo-text"> 优惠码: qyt85 </span>
-      · 8折<span class="promo-text"> 优惠码: qyt80 </span>
-      · 配合优惠码折上折，最高可达<span class="promo-text">48折</span>
+      · <span class="promo-text">奇门遁甲|大六壬</span>
+      · <span class="promo-text">紫微斗数|八字</span>
+      · AI分析·完全免费
     # date: '7月31号23点59分'
     # dateText: '活动截止至'
-    link: https://itheo.top/qyt
+    link: https://ai.letfate.com
     rel: sponsored noreferrer
 
   actions:
@@ -34,16 +34,8 @@ hero:
       link: /提交书籍与纠错
 
     - theme: alt
-      text: 专线推荐
-      link: https://doc.theojs.cn/serve/airport/qingyunti
-
-    - theme: alt author
-      text: Theo-Docs
-      link: https://doc.theojs.cn
-
-    - theme: alt logo
-      text: Lumen
-      link: https://lumen.theojs.cn
+      text: AI占卜
+      link: https://ai.letfate.com
 ---
 
 <Home />
