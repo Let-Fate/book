@@ -13,16 +13,16 @@ hero:
     width: 320
     height: 320
 
-  Notice:
-    title: '<span class="promo-title">LetFate·灵钥通枢</span>'
-    desc: |
-      · <span class="promo-text">奇门遁甲|大六壬</span>
-      · <span class="promo-text">紫微斗数|八字</span>
-      · AI分析·完全免费
-    # date: '7月31号23点59分'
-    # dateText: '活动截止至'
-    link: https://ai.letfate.com
-    rel: sponsored noreferrer
+  # Notice:
+  #   title: '<span class="promo-title">LetFate·灵钥通枢</span>'
+  #   desc: |
+  #     · <span class="promo-text">奇门遁甲|大六壬</span>
+  #     · <span class="promo-text">紫微斗数|八字</span>
+  #     · AI分析·完全免费
+  #   # date: '7月31号23点59分'
+  #   # dateText: '活动截止至'
+  #   link: https://ai.letfate.com
+  #   rel: sponsored noreferrer
 
   actions:
     - theme: brand
