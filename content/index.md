@@ -1,9 +1,9 @@
 ---
 layout: home
-title: LetFate·玄学宝典
+title: LetFate·灵钥宝典
 titleTemplate: 中华传统五术书籍传世经典著作
 hero:
-  name: LetFate·玄学宝典
+  name: LetFate·灵钥宝典
   text: 山医命相卜
   tagline: 中华传统五术书籍传世经典著作
   image:
