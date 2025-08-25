@@ -3,11 +3,11 @@
     "build": "vitepress build",
     "commitlint": "commitlint --edit",
     "cz": "git-cz",
-    "dev": "vitepress dev --port 592",
+    "dev": "vitepress dev -p 592",
     "format": "prettier --experimental-cli --write .",
     "format:cheak": "prettier --experimental-cli --check .",
     "iall": "pnpm -r install",
-    "preview": "vitepress preview --port 592",
+    "preview": "vitepress preview -p 592",
     "upall": "pnpm -r update --latest"
   },
   "simple-git-hooks": {
